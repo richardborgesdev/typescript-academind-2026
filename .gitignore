@@ -1,0 +1,11 @@
+# dependencies
+node_modules/
+
+# build output (TypeScript compiled files)
+dist/
+
+# logs
+*.log
+
+# OS
+.DS_Store
