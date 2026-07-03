@@ -11,7 +11,10 @@
 7. about this course
 8. how to get the most out of the course
 9. course setup & course code
-    1. https://github.com/mschwarzmueller/understanding-typescript-resources
+    - https://github.com/mschwarzmueller/understanding-typescript-resources
 
 ### Section 2: typscript basics & basic types
-10. Module introduction
+10. module introduction
+11. using node.js to run javascript code
+12. project setup
+13. working with types & exploring built-in types
