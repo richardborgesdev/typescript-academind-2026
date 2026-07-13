@@ -18,3 +18,7 @@
 11. using node.js to run javascript code
 12. project setup
 13. working with types & exploring built-in types
+14. vanilla javascript has types too!
+15. type inference vs type assigment
+16. assigning types to function parameters
+17. the "any" type
