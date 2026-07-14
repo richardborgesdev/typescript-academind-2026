@@ -22,3 +22,9 @@
 15. type inference vs type assigment
 16. assigning types to function parameters
 17. the "any" type
+18. understanding union types
+19. arrays & types
+20. advanced array types
+21. a first grimpse at genery types - alternative array type declaration
+22. making sense of tuples
+23.
