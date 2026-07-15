@@ -27,4 +27,5 @@
 20. advanced array types
 21. a first grimpse at genery types - alternative array type declaration
 22. making sense of tuples
-23.
+23. object types
+24. tricky: the "must not be null" type
