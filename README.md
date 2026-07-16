@@ -29,3 +29,6 @@
 22. making sense of tuples
 23. object types
 24. tricky: the "must not be null" type
+25. flexible objects with the record type
+26. working with enums
+27.
