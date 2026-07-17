@@ -31,4 +31,5 @@
 24. tricky: the "must not be null" type
 25. flexible objects with the record type
 26. working with enums
-27.
+27. being specific with literal types
+28.
