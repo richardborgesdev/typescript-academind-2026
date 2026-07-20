@@ -32,4 +32,5 @@
 25. flexible objects with the record type
 26. working with enums
 27. being specific with literal types
-28.
+28. type aliases & custom types
+29.

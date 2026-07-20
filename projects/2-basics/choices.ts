@@ -12,3 +12,17 @@ let userRole: 'admin' | 'editor' | 'guest' = 'guest';
 // ...
 let possibleResults: [-1 | 1, -1 | 1];
 possibleResults = [-1, -1];
+
+// ...
+type Role2 = 'admin' | 'editor' | 'guest';
+
+function access(role: Role2) {
+
+}
+
+type User = {
+  name: string;
+  age: number;
+  role: Role2;
+  permissions: string[];
+}
