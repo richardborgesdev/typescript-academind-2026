@@ -37,4 +37,5 @@
 30. the void type
 31. the "never" type
 32. functions as types
-33.
+33. null & undefined - special types
+34.
