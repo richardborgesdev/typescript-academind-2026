@@ -1,7 +1,7 @@
 # typescript-academind-2026
 
-## Progress
-### Section 1: getting started
+## progress
+### section 1: getting started
 1. welcome to the course
 2. what is typescript?
 3. why would you use typescript?
@@ -13,7 +13,7 @@
 9. course setup & course code
     - https://github.com/mschwarzmueller/understanding-typescript-resources
 
-### Section 2: typscript basics & basic types
+### section 2: typescript basics & basic types
 10. module introduction
 11. using node.js to run javascript code
 12. project setup
@@ -38,4 +38,13 @@
 31. the "never" type
 32. functions as types
 33. null & undefined - special types
-34.
+34. inferred null & a firt look at type narrowing
+35. forced "not null" and optional chaining
+36. type casting
+37. the "unknown" type
+38. optional values & typescript
+39. nullish coalescing
+
+### section 3: the typescript compiler (and its configuration)
+40. module introduction
+41.
