@@ -47,4 +47,17 @@
 
 ### section 3: the typescript compiler (and its configuration)
 40. module introduction
-41.
+41. typescript project setup & creating a tsconfig.json file
+42. exploring tsconfig options: target & libs
+43. controlling file input & emissions
+44. configuring type checking
+45. configuring type quality checks
+46. example tsconfig.json & deep dive
+47. compiling with tsconfig
+48. using typescript's watch node
+49. installing type packages
+    - https://github.com/DefinitelyTyped/DefinitelyTyped
+
+### section 4: typescript essentials demo project
+50. module introduction
+51.
