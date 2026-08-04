@@ -63,4 +63,5 @@
 51. using node.js to run compiled js code
 52. getting started & first steps
 53. creating a first custom type
-54.
+54. adding application logic
+55.
