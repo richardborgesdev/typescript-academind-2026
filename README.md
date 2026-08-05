@@ -63,5 +63,11 @@
 51. using node.js to run compiled js code
 52. getting started & first steps
 53. creating a first custom type
-54. adding application logic
-55.
+54. defining a function with a union type return
+55. adding application logic
+56. connecting functions & passing values
+57. compilation & execution
+
+
+### section 5: next-generation javascript & typescript
+56. module introduction
