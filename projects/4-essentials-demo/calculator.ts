@@ -60,9 +60,30 @@ function calculateInvestment(data: InvestmentData): CalculationResult {
   return annualResults;
 }
 
-function printResults(results) {
+function printResults(results: CalculationResult) {
+  if (typeof results === 'string') {
+    console.log(results);
 
+    return;
+  }
+
+  for (const yearEndResult of results) {
+    console.log(yearEndResult.year);
+    console.log(`Total: ${yearEndResult.totalAmount.toFixed(0)}`);
+    console.log(`Total Contributions: ${yearEndResult.totalContributions.toFixed(0)}`);
+    console.log(`Total Interest Earned: ${yearEndResult.totalInterestEarned.toFixed(0)}`);
+    console.log('------------------');
+  }
 }
 
-const results = calculateInvestment();
+const investmentData: InvestmentData = {
+  initialAmount: 5000,
+  annualContribution: 500,
+  expectedReturn: 0.08,
+  duration: 10,
+};
+
+const results = calculateInvestment(investmentData);
+
+
 printResults(results);
