@@ -70,4 +70,15 @@
 
 
 ### section 5: next-generation javascript & typescript
-56. module introduction
+58. module introduction
+59. "let" and "const"
+60. arrow functions
+61. default function parameters
+62. the spread operator (...)
+63. rest parameters
+64. array & object destructuring
+65. how code gets compiled & wrap up
+66. useful resources & links
+
+### section 6: classes & interfaces
+67. module introduction
