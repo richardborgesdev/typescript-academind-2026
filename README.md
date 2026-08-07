@@ -82,3 +82,11 @@
 
 ### section 6: classes & interfaces
 67. module introduction
+68. what are classes?
+69. creating a first class
+70. a useful typescript shortcut & compiling to javascript
+71. making sense of "public" and "private"
+72. marking fields as "readonly"
+73. understanding getters
+74. setting values with setters
+75.
