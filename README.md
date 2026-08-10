@@ -89,4 +89,5 @@
 72. marking fields as "readonly"
 73. understanding getters
 74. setting values with setters
-75.
+75. exploring static properties & methods
+76.
