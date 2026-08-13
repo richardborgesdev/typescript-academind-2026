@@ -92,4 +92,5 @@
 75. exploring static properties & methods
 76. understanding inheritance
 77. the "protected" modifier
-78.
+78. making sense of abstract classes
+79.
