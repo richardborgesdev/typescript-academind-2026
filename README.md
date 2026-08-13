@@ -93,4 +93,6 @@
 76. understanding inheritance
 77. the "protected" modifier
 78. making sense of abstract classes
-79.
+79. introducing interfaces
+80. creating a first interface
+81.
