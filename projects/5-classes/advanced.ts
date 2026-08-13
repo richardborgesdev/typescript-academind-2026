@@ -1,5 +1,5 @@
 class User {
-  private _firstName: string = '';
+  protected _firstName: string = '';
   private _lastName: string = '';
 
 
@@ -39,3 +39,35 @@ max.lastName = 'Scharzmüller';
 console.log(max.fullName);
 console.log(User.eid);
 User.greet();
+
+
+class Employee extends User {
+  constructor(public jobTitle: string) {
+    super();
+    // super.firstName = 'Max';
+  }
+
+  work() {
+    // ...
+    console.log(this._firstName);
+
+  }
+}
+
+abstract class UIElement {
+  constructor(public identifier: string) {
+
+  }
+
+  clone(targetLocation: string) {
+
+  }
+}
+
+// let UIElement = new UIElement();
+
+class SideDrawerElement extends UIElement {
+  constructor(public identifier: string, public position: 'left' | 'right') {
+    super(identifier);
+  }
+}
