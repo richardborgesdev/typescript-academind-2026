@@ -95,4 +95,7 @@
 78. making sense of abstract classes
 79. introducing interfaces
 80. creating a first interface
-81.
+81. interfaces as object types
+82. interfaces vs type aliases & understanding declaration merging
+83. using interfaces to define function types
+84.
