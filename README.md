@@ -98,4 +98,10 @@
 81. interfaces as object types
 82. interfaces vs type aliases & understanding declaration merging
 83. using interfaces to define function types
-84.
+84. implementing interfaces
+85. ensuring base types with interfaces
+86. extending interfaces
+87. how interfaces get (not) compiled to javascript
+
+### section 7: advanced types
+88. module introduction
