@@ -105,3 +105,16 @@
 
 ### section 7: advanced types
 88. module introduction
+89. intersection type
+90. more on type guards
+    - https://github.com/mschwarzmueller/understanding-typescript-resources/blob/main/attachments/07-advanced-types/guards.ts
+91. discriminated unions
+92. type guards via "instanceof"
+    - https://github.com/mschwarzmueller/understanding-typescript-resources/blob/main/attachments/07-advanced-types/guards-updated.ts
+93. "outsourcing" type guards & using type predicates
+94. function overloads
+95. working with function overloads
+96. making sense of index types
+97. constant types with "as const"
+98. revisiting the "record" type
+99.
