@@ -117,4 +117,19 @@
 96. making sense of index types
 97. constant types with "as const"
 98. revisiting the "record" type
-99.
+99. the "satisfies" keyword
+
+### section 8: generic types
+100. module introduction
+101. a generic type we already know
+102. understanding generic types
+103. creating & using generic types
+104. generic functions & inference
+105. working with multiple generic parameters
+106. generic & constraints
+107. constraints & multiple generic types
+108. working with generic classes & interfaces
+109. summary
+
+### section 9: classes & generics - demo project
+110. module introduction
