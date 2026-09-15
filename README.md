@@ -133,3 +133,15 @@
 
 ### section 9: classes & generics - demo project
 110. module introduction
+111. what is a linked list?
+112. creating list & node classes
+113. making the class generic
+114. adding an "add" method
+115. adding items more efficiently
+116. acessing the data & compiling + running the code
+117. finishing the linked lits
+    - https://github.com/mschwarzmueller/understanding-typescript-resources/blob/main/attachments/09-classes-generics-practice/linked-list.ts
+
+### section 10: deriving types from types
+118. module introduction
+119.
