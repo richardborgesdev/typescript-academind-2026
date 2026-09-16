@@ -144,4 +144,5 @@
 
 ### section 10: deriving types from types
 118. module introduction
-119.
+119. using "typeof"
+120.
