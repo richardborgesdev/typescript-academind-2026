@@ -145,4 +145,7 @@
 ### section 10: deriving types from types
 118. module introduction
 119. using "typeof"
-120.
+120. "typeof" & more useful example
+121. another great use case for "typeof"
+122. extracting keys with "keysof"
+123.
