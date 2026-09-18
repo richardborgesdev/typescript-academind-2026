@@ -148,4 +148,5 @@
 120. "typeof" & more useful example
 121. another great use case for "typeof"
 122. extracting keys with "keysof"
-123.
+123. "keysof" & more useuful example
+124.
