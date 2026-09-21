@@ -149,4 +149,7 @@
 121. another great use case for "typeof"
 122. extracting keys with "keysof"
 123. "keysof" & more useuful example
-124.
+124. understanding indexed access types
+125. accessing array elements with indexed access
+126. introducing mapped types
+127.
