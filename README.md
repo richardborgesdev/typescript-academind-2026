@@ -152,4 +152,6 @@
 124. understanding indexed access types
 125. accessing array elements with indexed access
 126. introducing mapped types
-127.
+127. readonly types & optional mapping
+128. exploring template literal types
+129.
