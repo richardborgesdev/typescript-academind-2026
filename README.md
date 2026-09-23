@@ -154,4 +154,5 @@
 126. introducing mapped types
 127. readonly types & optional mapping
 128. exploring template literal types
-129.
+129. introducing conditional types
+130.
