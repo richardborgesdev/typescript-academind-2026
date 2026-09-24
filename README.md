@@ -155,4 +155,10 @@
 127. readonly types & optional mapping
 128. exploring template literal types
 129. introducing conditional types
-130.
+130. conditional types - another example
+131. making sense of the "infer" keyword
+132. typescript's got you covered: built-in utility types
+    - https://www.typescriptlang.org/docs/handbook/utility-types.html
+
+### section 11: ECMAScript decorators
+133.
