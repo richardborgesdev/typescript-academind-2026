@@ -161,4 +161,8 @@
     - https://www.typescriptlang.org/docs/handbook/utility-types.html
 
 ### section 11: ECMAScript decorators
-133.
+133. module introduction
+134. what are decorators? and ECMAScript decorators vs experimental decorators
+135. exploring different types of decorators
+136. building a first decorator
+137.
