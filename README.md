@@ -165,4 +165,16 @@
 134. what are decorators? and ECMAScript decorators vs experimental decorators
 135. exploring different types of decorators
 136. building a first decorator
-137.
+137. building a class decorators that edits a class
+138. understanding decorator code execution order
+139. creating a method decorator
+140. using decorators to solve a common problem
+141. implementing a decorator-base solution: autobind
+142. replacing methods with decorators
+143. introducing the field decorator
+144. building configurable decorators with factories
+145. onwards to experimental decorators
+
+### section 12: experimental decorators
+146. module introduction
+147.
