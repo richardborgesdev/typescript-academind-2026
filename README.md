@@ -177,4 +177,7 @@
 
 ### section 12: experimental decorators
 146. module introduction
-147.
+147. a first class decorator
+148. working with decorator factories
+149. building more useful decorators
+150.
