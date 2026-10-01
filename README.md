@@ -180,4 +180,21 @@
 147. a first class decorator
 148. working with decorator factories
 149. building more useful decorators
-150.
+150. adding multiple decorators
+151. diving into property decorators
+152. acessor & parameter decorators
+153. when do decorators execute?
+154. returning (and changing) a class in a class decorator
+155. other decorator return types
+    - https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/defineProperty
+156. example: creating an "autobind" decorator
+157. validation with decorators - first steps
+158. validation with decorators - finished
+159. fixing a validator bug
+160. wrap up
+161. useful resources & links
+    - https://www.typescriptlang.org/docs/handbook/decorators.html
+
+### section 13: practice time! let's build a drag & drop project
+162. module introduction
+163.
