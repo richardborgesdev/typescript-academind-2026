@@ -197,4 +197,5 @@
 
 ### section 13: practice time! let's build a drag & drop project
 162. module introduction
-163.
+163. getting started
+164.
