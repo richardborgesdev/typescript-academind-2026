@@ -198,4 +198,5 @@
 ### section 13: practice time! let's build a drag & drop project
 162. module introduction
 163. getting started
-164.
+164. DOM element selection & OOP rendering
+165.
