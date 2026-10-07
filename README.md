@@ -199,4 +199,5 @@
 162. module introduction
 163. getting started
 164. DOM element selection & OOP rendering
-165.
+165. interacting with DOM elements
+166.
