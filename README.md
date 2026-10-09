@@ -200,4 +200,5 @@
 163. getting started
 164. DOM element selection & OOP rendering
 165. interacting with DOM elements
-166.
+166. creating & using an "autobind" decorator
+167.
