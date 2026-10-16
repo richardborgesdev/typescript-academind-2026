@@ -204,4 +204,5 @@
 167. fetching user input
 168. creating a re-usable validation functionality
 169. rendering project lists
-170.
+170. managing application state with singletons
+171.
