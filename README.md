@@ -208,4 +208,15 @@
 171. more classes & custom types
 172. filtering projects with enums
 173. adding inheritance & generics
-174.
+174. rendering project items with a class
+175. using a getter
+176. utilizing interfaces to implement drag & drop
+177. drag events & reflecting the current state in the UI
+178. adding droppable area
+179. finishing drag & drop
+180. wrap up
+181. useful resources & links
+
+### section 14: modules & namespaces
+182. module introduction
+183.
