@@ -219,4 +219,7 @@
 
 ### section 14: modules & namespaces
 182. module introduction
-183.
+183. writting module code - your options
+184. working with namespaces
+185. organizing files & folders
+186.
