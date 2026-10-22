@@ -222,4 +222,15 @@
 183. writting module code - your options
 184. working with namespaces
 185. organizing files & folders
-186.
+186. a problem with namespace imports
+187. using ES modules
+188. configuring tsconfig
+189. understanding various import & export syntaxes
+190. how does code in modules execute?
+191. understanding "type" imports
+192. wrap up
+193. useful resources & links
+
+### section 15: creating & running typescript projects with vite
+194. module introduction
+195.
