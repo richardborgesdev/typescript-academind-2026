@@ -233,4 +233,17 @@
 
 ### section 15: creating & running typescript projects with vite
 194. module introduction
-195.
+195. the problem with the typescript compiler
+196. building with webpack or ESbuild
+197. introducing vite
+    - https://vite.dev/
+198. using vite
+199. installing typescript on a per-project basis
+200. making sense of .d.ts files
+201. importing non-ts files
+202. wrap up
+
+### section 16: using webpack with typescript
+203. about this section
+204. module introduction
+205.
