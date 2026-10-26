@@ -246,4 +246,16 @@
 ### section 16: using webpack with typescript
 203. about this section
 204. module introduction
-205.
+205. what is webpack & why do we need it?
+206. installing webpack & important dependencies
+207. adding entry point & output configuration
+208. adding typescrip support with ts-loader
+209. adjust webpack config
+210. finishing the setup & adding web-dev-server
+211. adding a production workflow
+212. wrap up
+213. useful resources & links
+
+### section 17: 3rd party libraries & typescript
+214. module introduction
+215. 
