@@ -258,4 +258,16 @@
 
 ### section 17: 3rd party libraries & typescript
 214. module introduction
-215. 
+215. problem: using javascript libraries with typescript
+216. solution: installing @types packages
+217. exploring .d.ts files
+218. diving deeper into .d.ts files
+219. using "declare" manually
+220. there are libraries with great typescript support!
+221. exploring zod as a typescript-first library
+222. diving deeper into zod
+223. runtime vs compile-time types with zod
+
+### section 18: time to practice! let's build a "select & share place" app (incl. google maps)
+224. module introduction
+225. 
