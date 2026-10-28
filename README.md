@@ -270,4 +270,14 @@
 
 ### section 18: time to practice! let's build a "select & share place" app (incl. google maps)
 224. module introduction
-225. 
+225. project setup
+226. getting user input
+227. setting up a google api key
+228. using axios to fetch coordinates for an entered address
+229. rendering a map with google maps (incl. types!)
+230. working with maps without a credit card
+231. useful resources & links
+
+### section 19: react.js & typescript
+232. module introduction
+233. 
