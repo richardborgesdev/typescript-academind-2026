@@ -280,4 +280,20 @@
 
 ### section 19: react.js & typescript
 232. module introduction
-233. 
+233. setting up a react + typescript project
+234. typing components & props
+235. using components & props
+236. the special "children" prop & optional props
+237. adding another components with props
+238. component functions & types - an alternative
+239. managing state
+240. passing functions as props
+241. handling form submission
+242. working with refs
+243. more functions passing & state updating
+244. fixing a typo
+245. wrap up
+
+### section 20: node.js + express & typescript
+246. module introduction
+247. 
