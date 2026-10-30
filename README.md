@@ -1,5 +1,7 @@
 # typescript-academind-2026
 
+![course-certificate](./ts-certificate.jpg)
+
 ## progress
 ### section 1: getting started
 1. welcome to the course
@@ -296,4 +298,16 @@
 
 ### section 20: node.js + express & typescript
 246. module introduction
-247. 
+247. node & typescript: options & alternatives
+248. setting up a project
+249. first server & working with node types
+250. adding & using express (+types)
+251. managing data with help of typescript
+252. adding & testing a first route
+253. finishing the basic app
+254. native node.js typescript support (without compilation)
+255. type stripping vs type transformation
+256. exploring alternative runtimes like bun
+
+### section 21: course roundup
+257. thanks for being part of the course!
